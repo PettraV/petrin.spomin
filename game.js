@@ -1,10 +1,11 @@
 var Memory = (function () {
 	var r = {
 		images: [
-			'http://www.panco.si/memory/editor/red-plane.png',
-			'http://www.panco.si/memory/editor/blue-plane.png',
-			'http://www.panco.si/memory/editor/red-tank.png',
-			'http://www.panco.si/memory/editor/blue-tank.png'
+			'http://2.bp.blogspot.com/-QwRKNP31hy8/U9LgKrU8kBI/AAAAAAABYKw/VkgNJFWaKEs/s1600/hands_tree.png',
+			'http://clairhumphries.com/wp-content/uploads/2014/02/doodle-heart-1.png',
+			'http://guysfromandromeda.com/wp-content/uploads/2012/07/Galaxy-background.jpg',
+			'http://cdn.theatlantic.com/static/mt/assets/science/cloud-body.jpg',
+			'http://www.farhanadhalla.com/wp-content/uploads/2010/06/jump-for-joy.jpg'
 		],
 
 		colors: ['#99b433', '#1e7145', '#ff0097', '#9f00a7', '#7e3878', '#603cba', '#1d1d1d', '#00aba9', '#eff4ff', '#2d89ef', '#2b5797', '#ffc40d', '#e3a21a', '#da532c', '#ee1111', '#b91d47'],
