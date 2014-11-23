@@ -1,3 +1,0 @@
-wade.preloadAudio('sounds/right.ogg');
-wade.preloadAudio('sounds/wrong.ogg');
-wade.playAudioIfAvailable('sounds/right.ogg');
